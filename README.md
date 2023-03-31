@@ -9,5 +9,5 @@ training progresses. This both speeds the training up and greatly stabilizes it,
 Also proposes a simple way to increase the variation in generated imaages, and achieve a record inception score of 8.80 in unsupervised CIFAR 10.
 Several implementation details that are important for discouraging unhealthy competition between the generator and discriminator.
 
-A new metric for evaluating GAN results, both in terms of image qality and variation. As an additional contribution, constructed a higher-quality version of 
+A new metric for evaluating GAN results, both in terms of image quality and variation. As an additional contribution, constructed a higher-quality version of 
 the CELEBA dataset.
